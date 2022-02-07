@@ -14,7 +14,7 @@ app.config['SECRET_KEY'] = "654c0fb3968af9d5e6a9b3edcbc7051b"
 
 @app.route("/", methods=["GET"])
 def index():
-    return render_template('Hello')
+    return render_template('index.html')
 
 # @app.route("/youtube", methods = ["GET"])
 # def home():
