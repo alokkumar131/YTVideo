@@ -5,5 +5,5 @@ gunicorn==20.1.0
 itsdangerous==2.0.1
 Jinja2==3.0.3
 MarkupSafe==2.0.1
-pytube @ git+https://github.com/baxterisme/pytube@e50bb734308dda27f2519345bbe6d9e84442a18f
+pytube @ git+https://github.com/rmerzouki/pytube@a63856e009a0d01f03e30065900c3f4851b7eebf
 Werkzeug==2.0.2
